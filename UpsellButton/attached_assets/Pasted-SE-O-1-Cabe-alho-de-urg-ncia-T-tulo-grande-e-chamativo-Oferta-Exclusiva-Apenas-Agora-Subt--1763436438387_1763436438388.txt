@@ -1,0 +1,96 @@
+SEÇÃO 1 – Cabeçalho de urgência
+
+Título grande e chamativo:
+⚠ Oferta Exclusiva – Apenas Agora!
+Subtítulo:
+Complete sua compra com um material imperdível que vai transformar ainda mais o aprendizado das crianças.
+
+Barra de progresso visual 75% – Mensagem:
+Seu pedido está quase completo… Aproveite esta única oportunidade!
+
+SEÇÃO 2 – Apresentação do Upsell Principal
+
+Título:
+Super Kit de Atividades Bíblicas – Aumente o Engajamento das Crianças!
+
+Texto:
+O Super Kit de Atividades Bíblicas contém caça-palavras, ligue os pontos, desafios, desenhos e atividades que fixam cada parábola de forma prática e divertida. Ideal para casa, escola e igreja. Torne o aprendizado mais leve e envolvente!
+
+Benefícios em bullet points:
+
+Atividades prontas para imprimir e usar
+
+Aumenta o interesse e a participação das crianças
+
+Fortalece o aprendizado das parábolas
+
+Perfeito para pais, professores e ministério infantil
+
+Imagem inserida: (inserir imagem do super kit)
+Preço em destaque: De R$ 39,90 por R$ 19,00 apenas aqui
+Botão de CTA grande, verde, com ícone de carrinho:
+SIM! Quero adicionar ao meu pedido agora
+
+Texto de segurança pequeno abaixo:
+⭐ Garantia incondicional de 7 dias | 🎉 Download imediato
+
+SEÇÃO 3 – Mostrar os outros produtos como Cross-sell
+
+Título:
+Aproveite também essas ofertas especiais e transforme sua experiência:
+
+Grade com 3 cards de produtos:
+
+UNO Bíblico – R$14,90
+
+Jogo no estilo Uno, com cartas cristãs que ensinam virtudes, versículos e valores.
+Botão pequeno: Adicionar ao pedido
+
+365 Dias de Devocionais Infantis – R$21,90
+
+Devocional infantil diário com versículo, reflexão e aplicação prática.
+Botão pequeno: Adicionar ao pedido
+
+(Seu produto adicional se existir)
+
+Descrição curta
+Botão pequeno: Adicionar ao pedido
+
+SEÇÃO 4 – Prova Social
+
+Título:
+Quem já comprou está amando ❤️
+Adicionar cards de depoimentos curtos:
+⭐ ⭐ ⭐ ⭐ ⭐ “Me ajudou muito nas aulas do culto infantil!”
+⭐ ⭐ ⭐ ⭐ ⭐ “Minhas crianças pedem todos os dias para fazer!”
+
+SEÇÃO 5 – CTA final
+
+Título:
+Última chance antes de finalizar o seu pedido
+Botão grande e chamativo:
+SIM! Quero adicionar ao meu pedido agora
+
+Botão de recusa discreto:
+Não, obrigado. Quero finalizar minha compra sem adicionar este material.
+
+ESTILO VISUAL
+
+Cores infantis e aconchegantes (amarelo, azul claro, verde, laranja)
+
+Ícones simples e desenhos cristãos
+
+Botões grandes e chamativos, bordas arredondadas
+
+Tipografia amigável e legível (Poppins, Nunito ou Baloo 2)
+
+FUNCIONALIDADES
+
+Botões devem executar ação via checkout transparente (POST Webhook ou loja)
+
+Exibir modal de confirmação após adicionar item ao pedido
+
+Copy extra emocional
+
+Adicione uma faixa no topo dizendo:
+Essa é uma oferta única e não volta mais depois dessa página.
